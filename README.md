@@ -10,6 +10,7 @@ Me chamo Joaquim Belzio Francisco, tenho 20 anos e sou natural da Gabela. Conclu
             title="Me siga no Twitter" 
             src="https://custom-icon-badges.demolab.com/twitter/follow/belzioa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=twitter&label=Twitter&logoColor=white"
         />
+        <figure><embed src="https://wakatime.com/share/@Belzio_Araujo/7d2dd011-bb6f-44ba-a12c-6437a84b6a92.svg"></embed></figure>
     </a>
     <p>
     <a href="https://www.instagram.com/belzioaraujo?igsh=MTVvdnJyM2YyZmh0dg==">
