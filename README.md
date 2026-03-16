@@ -2,14 +2,17 @@
 
 **`Desenvolvedor FullStack em início de carreira!`**
 
-Olá! Me chamo **Joaquim Belzio Francisco**, tenho 20 anos e sou natural da Gabela. Concluí o ensino médio no **IPPCV** como técnico de informática. Atualmente, sou estagiário na **BIT**, onde evoluo diariamente como profissional e desenvolvedor de sistemas. Sou apaixonado por tecnologia e compartilho conhecimento nas minhas redes:
+Olá! Me chamo **Joaquim Belzio Francisco**, tenho 20 anos e sou natural da Gabela. Estou concluindo o ensino médio no IPPCV como técnico em informática. Atualmente, sou estagiário na **BIT**, onde foco no crescimento profissional e na criação de sistemas íntegros e eficientes.
 
-*   **X (Twitter):** [Belzio Araujo](https://x.com/belzioa?s=21) – Dicas de projetos web.
-*   **Instagram:** [@belzioaraujo](https://www.instagram.com/belzioaraujo?igsh=MTVvdnJyM2YyZmh0dg==) – Bastidores e aprendizado.
+Sou apaixonado por tecnologia e compartilho conhecimento sobre desenvolvimento web nas minhas redes sociais:
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/belzioa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/belzioaraujo)
+[![Wakatime](https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@Belzio_Araujo)
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" />
@@ -27,18 +30,21 @@ Olá! Me chamo **Joaquim Belzio Francisco**, tenho 20 anos e sou natural da Gabe
 
 ### 📊 Estatísticas e Atividade
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-</div>
+> **Nota:** Para os gráficos abaixo funcionarem, certifique-se de que seu perfil do WakaTime está configurado como público.
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Belzio_Araujo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belzio_Araujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Top Langs" height="180em" />
+</p>
+
+#### ⏱ Tempo de Codificação (WakaTime)
+<p align="center">
   <img src="https://wakatime.com/share/@Belzio_Araujo/358d8fdd-7077-4767-bff1-7796274cc8e0.svg" width="400" />
-</div>
+  <img src="https://wakatime.com/share/@Belzio_Araujo/7d2dd011-bb6f-44ba-a12c-6437a84b6a92.svg" width="400" />
+</p>
 
 ---
 
-### 📫 Conecte-se comigo
-
-[![Twitter Badge](https://img.shields.io)](https://x.com/belzioa)
-[![Instagram Badge](https://img.shields.io)](https://www.instagram.com/belzioaraujo)
+<p align="center">
+  Desenvolvido com ☕ e muito código por Belzio Araujo.
+</p>
