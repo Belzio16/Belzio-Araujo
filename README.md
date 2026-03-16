@@ -29,9 +29,6 @@ Sou apaixonado por tecnologia e compartilho conhecimento sobre desenvolvimento w
 ---
 
 ### 📊 Estatísticas e Atividade
-
-> **Nota:** Para os gráficos abaixo funcionarem, certifique-se de que seu perfil do WakaTime está configurado como público.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Belzio_Araujo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belzio_Araujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" alt="Top Langs" height="180em" />
