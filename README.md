@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Belzio Araujo
+# 👨🏽‍💻 Belzio Araujo
 
 **`Desenvolvedor FullStack em início de carreira!`**
 
-Olá! Me chamo **Joaquim Belzio Francisco**, tenho 20 anos e sou natural da Gabela. Estou concluindo o ensino médio no IPPCV como técnico em informática. Atualmente, sou estagiário na **BIT**, onde foco no crescimento profissional e na criação de sistemas íntegros e eficientes.
+Olá! Sou Joaquim Belzio Francisco, técnico em informática em formação, com foco no crescimento profissional e no desenvolvimento de sistemas íntegros, eficientes e bem estruturados.
 
 Sou apaixonado por tecnologia e compartilho conhecimento sobre desenvolvimento web nas minhas redes sociais:
 
